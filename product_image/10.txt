@@ -1,0 +1,9 @@
+Product : 10
+Name : Handle Square Bag
+Short Desc : Minimalist Double Handle Square Bag
+description : The bag is characterized by its square shape, which adds a modern and sleek touch to its overall appearance. Square bags have gained popularity for their clean lines and contemporary style. The geometric shape of the bag offers a structured and organized look, making it an excellent choice for those who appreciate minimalist fashion.
+
+Product : 11
+Name : Sporty Outdoor Sneakers
+Short Desc: Women Colorblock Lace-up Front Skate Shoes, Sporty Outdoor Sneakers
+Description : These shoes are characterized by their colorblock design, which combines multiple contrasting colors in a visually appealing way. The colorblock pattern adds a touch of vibrancy and modernity to the shoes, making them stand out from traditional single-color designs.
